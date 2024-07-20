@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+https://ndhphysics.tistory.com/
+https://www.pixiv.net/users/27062651/artworks
 <!--
 **Nextdoorhydra/Nextdoorhydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
