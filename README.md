@@ -12,3 +12,5 @@ https://solved.ac/profile/ndhphysics
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 
 ### To learn
+<img src="https://jsdelivr.net" width="40" height="40" alt="ZBrush" title="ZBrush"/>
+<img src="https://jsdelivr.net" width="40" height="40" alt="Substance 3D Painter" title="Substance 3D Painter"/>
